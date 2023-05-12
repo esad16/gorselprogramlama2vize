@@ -1,0 +1,30 @@
+D:\Visual Studio Projeleri\UcakBileti\UcakBileti\bin\Debug\UcakBileti.exe.config
+D:\Visual Studio Projeleri\UcakBileti\UcakBileti\bin\Debug\UcakBileti.exe
+D:\Visual Studio Projeleri\UcakBileti\UcakBileti\bin\Debug\UcakBileti.pdb
+D:\Visual Studio Projeleri\UcakBileti\UcakBileti\obj\Debug\UcakBileti.csprojAssemblyReference.cache
+D:\Visual Studio Projeleri\UcakBileti\UcakBileti\obj\Debug\UcakBileti.Form1.resources
+D:\Visual Studio Projeleri\UcakBileti\UcakBileti\obj\Debug\UcakBileti.Properties.Resources.resources
+D:\Visual Studio Projeleri\UcakBileti\UcakBileti\obj\Debug\UcakBileti.csproj.GenerateResource.cache
+D:\Visual Studio Projeleri\UcakBileti\UcakBileti\obj\Debug\UcakBileti.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projeleri\UcakBileti\UcakBileti\obj\Debug\UcakBileti.exe
+D:\Visual Studio Projeleri\UcakBileti\UcakBileti\obj\Debug\UcakBileti.pdb
+D:\Visual Studio Projeleri\Uçak Bileti Uygulaması\UcakBileti\bin\Debug\UcakBileti.exe.config
+D:\Visual Studio Projeleri\Uçak Bileti Uygulaması\UcakBileti\bin\Debug\UcakBileti.exe
+D:\Visual Studio Projeleri\Uçak Bileti Uygulaması\UcakBileti\bin\Debug\UcakBileti.pdb
+D:\Visual Studio Projeleri\Uçak Bileti Uygulaması\UcakBileti\obj\Debug\UcakBileti.csprojAssemblyReference.cache
+D:\Visual Studio Projeleri\Uçak Bileti Uygulaması\UcakBileti\obj\Debug\UcakBileti.Form1.resources
+D:\Visual Studio Projeleri\Uçak Bileti Uygulaması\UcakBileti\obj\Debug\UcakBileti.Properties.Resources.resources
+D:\Visual Studio Projeleri\Uçak Bileti Uygulaması\UcakBileti\obj\Debug\UcakBileti.csproj.GenerateResource.cache
+D:\Visual Studio Projeleri\Uçak Bileti Uygulaması\UcakBileti\obj\Debug\UcakBileti.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projeleri\Uçak Bileti Uygulaması\UcakBileti\obj\Debug\UcakBileti.exe
+D:\Visual Studio Projeleri\Uçak Bileti Uygulaması\UcakBileti\obj\Debug\UcakBileti.pdb
+C:\Users\M.Esad İlhan\Desktop\Uçak Bileti Uygulaması\UcakBileti\bin\Debug\UcakBileti.exe.config
+C:\Users\M.Esad İlhan\Desktop\Uçak Bileti Uygulaması\UcakBileti\bin\Debug\UcakBileti.exe
+C:\Users\M.Esad İlhan\Desktop\Uçak Bileti Uygulaması\UcakBileti\bin\Debug\UcakBileti.pdb
+C:\Users\M.Esad İlhan\Desktop\Uçak Bileti Uygulaması\UcakBileti\obj\Debug\UcakBileti.csproj.AssemblyReference.cache
+C:\Users\M.Esad İlhan\Desktop\Uçak Bileti Uygulaması\UcakBileti\obj\Debug\UcakBileti.Form1.resources
+C:\Users\M.Esad İlhan\Desktop\Uçak Bileti Uygulaması\UcakBileti\obj\Debug\UcakBileti.Properties.Resources.resources
+C:\Users\M.Esad İlhan\Desktop\Uçak Bileti Uygulaması\UcakBileti\obj\Debug\UcakBileti.csproj.GenerateResource.cache
+C:\Users\M.Esad İlhan\Desktop\Uçak Bileti Uygulaması\UcakBileti\obj\Debug\UcakBileti.csproj.CoreCompileInputs.cache
+C:\Users\M.Esad İlhan\Desktop\Uçak Bileti Uygulaması\UcakBileti\obj\Debug\UcakBileti.exe
+C:\Users\M.Esad İlhan\Desktop\Uçak Bileti Uygulaması\UcakBileti\obj\Debug\UcakBileti.pdb
